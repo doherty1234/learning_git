@@ -1,0 +1,4 @@
+copied from doc3.txt
+this is the
+third file that 
+i will add to my repository
