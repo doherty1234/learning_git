@@ -1,3 +1,4 @@
+another change3
 I'm changing this to doc2.txt
 
 this is a document
