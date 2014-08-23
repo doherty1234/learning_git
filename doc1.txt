@@ -1,4 +1,4 @@
-Here is a change that I don't want to keep
+Here is a change that I don't want to keep - trying again
 
 another change
 I'm changing this to doc2.txt
