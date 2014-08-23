@@ -1,3 +1,5 @@
+Here is a change that I don't want to keep
+
 another change
 I'm changing this to doc2.txt
 
